@@ -16,7 +16,8 @@ Core courses
 Completed a six-month internship at VMware, focusing on training and evaluation of ***Large Language Models***.
 ## 3. Research and Publication
 
-A published paper (as the third author) focuses on modeling communication issues in ***Federated Learning*** as ***Convex Optimization*** problems and providing programming solutions.([link](https://ieeexplore.ieee.org/document/9975318))
+A published paper (as the third author) focuses on modeling communication issues in ***Federated Learning*** as ***Convex Optimization*** problems and providing programming solutions. This article was published in IEEE Access (IF=3.476).
+[link](https://ieeexplore.ieee.org/document/9975318)
 
 An unpublished paper (as the first author) primarily involves training ***Image Quality Assessment Models*** using ***Machine Learning*** techniques. I am actively revising and attempting to publish this paper.
 
