@@ -16,6 +16,8 @@ Core courses
 Completed a six-month internship at VMware, focusing on training and evaluation of ***Large Language Models***.
 ## 3. Research and Publication
 
-Published paper (third author) titled "Semi-Asynchronous Hierarchical Federated Learning Over Mobile Edge Networks([link](https://ieeexplore.ieee.org/document/9975318))", which models communication issues in federated learning as ***Convex Optimization*** problems and provides programming solutions.
+A published paper (as the third author) focuses on modeling communication issues in ***Federated Learning*** as ***Convex Optimization*** problems and providing programming solutions.([link](https://ieeexplore.ieee.org/document/9975318))
 
-Unpublished paper (first author) titled "A Deep Superpixel-based Network for Blind Image Quality Assessment", which involves training ***Image Quality Assessment Models*** using ***Machine Learning*** techniques. I am actively revising the paper and attempting to publish it.
+An unpublished paper (as the first author) primarily involves training ***Image Quality Assessment Models*** using ***Machine Learning*** techniques. I am actively revising and attempting to publish this paper.
+
+The original manuscripts of both articles are included in this repository.
