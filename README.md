@@ -18,4 +18,4 @@ Completed a six-month internship at VMware, focusing on training and evaluation 
 
 Published paper (third author) titled "Semi-Asynchronous Hierarchical Federated Learning Over Mobile Edge Networks([link](https://ieeexplore.ieee.org/document/9975318))", which models communication issues in federated learning as ***Convex Optimization*** problems and provides programming solutions.
 
-Unpublished paper (first author) titled "A Deep Superpixel-based Network for Blind Image Quality Assessment", which involves training ***Image Quality Assessment Models*** using ***Machine Learning*** techniques.
+Unpublished paper (first author) titled "A Deep Superpixel-based Network for Blind Image Quality Assessment", which involves training ***Image Quality Assessment Models*** using ***Machine Learning*** techniques. I am actively revising the paper and attempting to publish it.
